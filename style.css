@@ -1,0 +1,6 @@
+.graph-container {
+    display: grid;
+    grid-template-columns: repeat(53, 12px); /* 53 columns */
+    grid-template-rows: repeat(7, 12px);    /* 7 rows */
+    gap: 3px;                               /* Space between squares */
+}
